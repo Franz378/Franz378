@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Franz378
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 I'm noob why reach me
